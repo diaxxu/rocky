@@ -1,5 +1,8 @@
 # Rocky V1 
 Rocky V1 is a Static rocket with actuated fins designed for decoration and also to learn more mechanical and electrical knowledge about rocket since they are banned here ):  
+
+![Alternative Text](images/ROCKET.png)
+
 ## Functions  
 - controlable from wifi and bluethoot
 - pre recorded fin movement
@@ -11,6 +14,9 @@ Rocky V1 is a Static rocket with actuated fins designed for decoration and also 
 
 ##  Hardware Specifications
 
+![Alternative Text](images/SCHEM.png)
+![Alternative Text](images/COPPER.png)
+![Alternative Text](images/PCB.png)
 ### Core System
 * **MCU:** ESP32-WROOM-32E (Dual-core 32-bit MCU running at 240MHz with built-in Wi-Fi and Bluetooth).
 * **IMU:** ICM-42688-P 6-axis high-performance inertial measurement unit (SPI/I2C interface for tracking pitch, roll, and yaw).
@@ -45,6 +51,12 @@ The physical structure features a high-aspect-ratio sounding rocket body optimiz
 * **Internal Avionics Sled:** Built-in internal tracking guide rails allow the rectangular "Rocky V1" PCB to slide down the central axis and lock securely in position, ensuring a rigid $0^\circ$ alignment constraint for the IMU sensor.
 
 ---
+
+## Awesome Pics 
+
+![Alternative Text](images/RF.png)
+
+![Alternative Text](images/SIZE.png)
 
 
 

@@ -4,11 +4,11 @@ Rocky V1 is a Static rocket with actuated fins designed for decoration and also 
 ![Alternative Text](images/ROCKET.png)
 
 ## Functions  
-- controlable from wifi and bluethoot
-- pre recorded fin movement
-- stabilisation feature
-- live fins movement
-- look good infront of visitors :) 
+- Controlable from wifi and bluethoot
+- Pre recorded fin movement
+- Stabilisation feature
+- Live fins movement
+- Look good infront of visitors :) 
 
 ---
 

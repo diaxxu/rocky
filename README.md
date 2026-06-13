@@ -53,8 +53,11 @@ The physical structure features a high-aspect-ratio sounding rocket body optimiz
 ---
 
 ## Awesome Pics 
-
+# ZINE
+![Alternative Text](images/FINALZINE.png)
+---
 ![Alternative Text](images/RF.png)
+---
 
 ![Alternative Text](images/SIZE.png)
 

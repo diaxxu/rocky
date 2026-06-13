@@ -1,5 +1,5 @@
 # Rocky V1 
-Rocky V1 is a Static rocket with actuated fins designed for decoration and also to learn more mechanical and electrical knowledge about rocket since they are banned here ):  
+Rocky V1 is a Static rocket with actuated fins designed for decoration, i made this project to learn more mechanical and electrical knowledge about rocket since they are banned here ):  
 
 ![Alternative Text](images/ROCKET.png)
 

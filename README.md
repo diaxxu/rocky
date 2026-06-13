@@ -38,10 +38,10 @@ The Bill of Materials (BOM) was optimized for production and budget constraints 
 | :--- | :---: | :---: | :--- |
 | PVC Tube | 1 | 50 | Diameter : 100mm / height : 3 m |
 | Servo motor | 4 | 75.5 | SG90 blue servo |
-| PCB / PCBA | 5 | 806.33 | For 5 pcbs with 2 off them assembled |
-| 3d prints | 1 | 200 | Printing |
+| PCB / PCBA | 5 | 1033.78| For 5 pcbs with 2 off them assembled |
+| 3d prints shipping | 1 | 300 | Printing shipping fee|
 | Battery | 1 | already owned | 3s lipo 30c |
-| **TOTAL** | | **1131.83dh ($122.26)** | |
+| **TOTAL** | | **1,459.28dh ( 157.58$)** | |
 
 ---
 

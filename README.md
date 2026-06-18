@@ -8,7 +8,12 @@ Rocky V1 is a Static rocket with actuated fins designed for decoration, i made t
 - Pre recorded fin movement
 - Stabilisation feature
 - Live fins movement
-- Look good infront of visitors :) 
+- Look good infront of visitors :)
+
+## How to build 
+to build or make this rocket you need first of all to buy the everything the BOM has then take your pvc tube and drill slots where ur 3d printed fins will attach and drill a second hole in the upper section for the movable fins slide the payload section which is also 3d printed but before that screw in the flight controller and the servo then slide it in then align the servo with the hole we just made and attach the smaller fins in there Finally put the nose cone in and tada you have a rocket
+## To make it work 
+plug the battery ( 3s = 12v ) thru the xt60 and then plug the usb-c flash it with the available code in the repo then open up your browser and you can control it from there or flash it with whatever program you want its literally just 4 servos ! 
 
 ---
 

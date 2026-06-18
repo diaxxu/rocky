@@ -18,7 +18,7 @@ Rocky V1 is a Static rocket with actuated fins designed for decoration, i made t
 ![Alternative Text](images/COPPER.png)
 ![Alternative Text](images/PCB.png)
 ### Core System
-* **MCU:** ESP32-WROOM-32E (Dual-core 32-bit MCU running at 240MHz with built-in Wi-Fi and Bluetooth).
+* **MCU:** ESP32-WROOM-32E-N8 (Dual-core 32-bit MCU running at 240MHz with built-in Wi-Fi and Bluetooth).
 * **IMU:** ICM-42688-P 6-axis high-performance inertial measurement unit (SPI/I2C interface for tracking pitch, roll, and yaw).
 * **Actuators:** 4x independent 3-pin PWM servo headers (`F1` to `F4`) for active control surface simulation.
 
@@ -43,7 +43,7 @@ The Bill of Materials (BOM) was optimized for production and budget constraints 
 | Battery | 1 | already owned | 3s lipo 30c |
 | **TOTAL** | | **1,112dh ( 120.28$)** | |
 
-FROM 144$ to 120$ thanks to @Logan Peterson suggestions
+From 144$ to 120$ thanks to @Logan Peterson suggestions
 ---
 
 ##  Mechanical Layout

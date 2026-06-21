@@ -20,7 +20,7 @@ plug the battery ( 3s = 12v ) thru the xt60 and then plug the usb-c flash it wit
 ##  Hardware Specifications
 
 ![Alternative Text](images/SCHEM.png)
-![Alternative Text](images/COPPER.png)
+![Alternative Text](images/fra.png)
 ![Alternative Text](images/PCB.png)
 ### Core System
 * **MCU:** ESP32-WROOM-32E-N8 (Dual-core 32-bit MCU running at 240MHz with built-in Wi-Fi and Bluetooth).

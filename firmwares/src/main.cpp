@@ -38,7 +38,7 @@ const char* htmlDashboard =
 ".btn{display:block; width:80%; max-width:300px; margin:15px auto; padding:15px; font-size:18px; color:white; border:none; border-radius:5px; cursor:pointer; font-weight:bold;}"
 ".btn-0{background:#ff5722;}.btn-1{background:#2196f3;}.btn-2{background:#4caf50;}.btn-3{background:#777;}"
 "h1{color:#ffeb3b;}</style></head><body>"
-"<h1>🚀 Rocky V1 Mission Control</h1>"
+"<h1> Rocky V1 Mission Control</h1>"
 "<p>Select Actuation Flight Mode:</p>"
 "<button class='btn btn-0' onclick='location.href=\"/setmode?m=0\"'>1. Cinematic Startup</button>"
 "<button class='btn btn-1' onclick='location.href=\"/setmode?m=1\"'>2. Pre-Recorded Routine</button>"

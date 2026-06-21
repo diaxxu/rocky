@@ -21,7 +21,7 @@ plug the battery ( 3s = 12v ) thru the xt60 and then plug the usb-c flash it wit
 
 ![Alternative Text](images/SCHEM.png)
 ![Alternative Text](images/fra.png)
-![Alternative Text](images/PCB.png)
+![Alternative Text](images/fro.png)
 ### Core System
 * **MCU:** ESP32-WROOM-32E-N8 (Dual-core 32-bit MCU running at 240MHz with built-in Wi-Fi and Bluetooth).
 * **IMU:** ICM-42688-P 6-axis high-performance inertial measurement unit (SPI/I2C interface for tracking pitch, roll, and yaw).

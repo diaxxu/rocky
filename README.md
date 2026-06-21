@@ -45,10 +45,10 @@ The Bill of Materials (BOM) was optimized for production and budget constraints 
 | Servo motor | 4 | 100 | SG90 blue servo |
 | PCB / PCBA | 5 | 662.41| For 5 pcbs with 2 off them assembled |
 | 3d prints shipping | 1 | 300 | Printing shipping fee|
-| Battery | 1 | already owned | 3s lipo 30c |
-| **TOTAL** | | **1,112dh ( 120.28$)** | |
+| Battery | 1 | already owned (100) | 3s lipo 30c |
+| **TOTAL** | | **1,212dh ( 131.38$)** | |
 
-From 144$ to 120$ thanks to @Logan Peterson suggestions
+
 ---
 
 ##  Mechanical Layout

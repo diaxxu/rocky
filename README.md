@@ -37,7 +37,7 @@ plug the battery ( 3s = 12v ) thru the xt60 and then plug the usb-c flash it wit
 
 ## Wire diagram 
 
-![Alternative Text](images/bro.png)
+![Alternative Text](images/bot.png)
 
 ---
 

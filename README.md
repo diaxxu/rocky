@@ -35,6 +35,10 @@ plug the battery ( 3s = 12v ) thru the xt60 and then plug the usb-c flash it wit
 * **LDO Regulator:** AMS1117-3.3 dedicated to providing a low-noise power rail for the microcontroller.
 * **USB Interface:** CH340C USB-to-UART bridge with a standard Type-C port for programming and debugging.
 
+## Wire diagram 
+
+![Alternative Text](images/bat.png)
+
 ---
 
 ##  Design & Cost Optimization
